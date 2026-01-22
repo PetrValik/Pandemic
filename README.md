@@ -1,8 +1,12 @@
 # Pandemic
 
-It was a school project. I have to create a program which will simulate the progress of the pandemic spread of disease.
-To complete this project I need to create parsers of CSV files in which the database was located. The task was inspired by the popular PC game Plague Inc: Evolved.
-The task was based on an agent-like simulation where agents travel through location and get infected again and again until the disease is extinct or all agents die.
+It was a school project. The goal was to create a program that simulates the spread of a pandemic.
 
+To complete this project, I implemented parsers for CSV files containing the input data.  
+The task was inspired by the PC game *Plague Inc: Evolved*.
 
-More information on the project and assignment are located in the file assignment.ad.
+The simulation is agent-based: agents travel between locations and can repeatedly become infected until the disease becomes extinct or all agents die.
+
+No AI tools were used during the development of this project.
+
+More information about the project and assignment can be found in the file `assignment.ad`.
